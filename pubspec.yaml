@@ -37,6 +37,8 @@ dependencies:
   #icon
   ionicons:
 
+  dio:
+
   #state management
   flutter_bloc:
 
